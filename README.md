@@ -1,2 +1,2 @@
-# personal-project
- learning by clone coding Kaggle or Dacon competitions
+# Kaggle Notebook Analysis
+ learning by analyzing Kaggle Notebooks or Kaggle's datasets
